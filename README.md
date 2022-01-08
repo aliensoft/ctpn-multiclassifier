@@ -1,2 +1,2 @@
 # ctpn-multiclassifier
-Multi-Classifier for OCR Object Detection base on CTPN framework
+Multi-Classifier for OCR Text Detection base on CTPN framework
