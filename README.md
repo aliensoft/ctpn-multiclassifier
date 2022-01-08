@@ -8,5 +8,7 @@ Multi-Classifier for OCR Text Detection base on CTPN framework
  
  ctpn模型是faster-rcnn模型的基础上使用了双向lstm提高了对图像中文字区域的识别准确率。
  
- 本模型ctpn-multiclassifier又在ctpn的基础上实现了多分类。有相同需求的朋友可以下载代码用比较工具与原ctpn代码进行比较就能理解本模型是如何实现的！
+ 本模型ctpn-multiclassifier又在ctpn的基础上实现了多分类。做要求训练数据做标注的时候标注出类别。
+ 
+ 有相同需求的朋友可以下载代码用比较工具与原ctpn代码进行比较就能理解本模型是如何实现的！
  希望本模型对大家有帮助！
